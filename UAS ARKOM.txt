@@ -1,0 +1,83 @@
+UJIAN AKHIR SEMESTER
+
+
+Nama		: Erika Asmaul Husna
+NIM		: 311710115
+Kelas		: TI.17.D3
+Matkul		: Arsitektur Organisasi Dan Komputer
+
+					Jawaban
+1.
+•	Casing CPU
+Casing CPU biasanya terbuat dari plastik dan beberapa juga terbuat dari besi, stainless, dan lain sebagainya. Casing ini berguna untuk melindungi berbagai komponen-komponen yang terdapat dalam CPU, tentunya untuk lebih melindungi dari debu, panas, air, atau hal-hal lain yang dikhawatirkan akan mengganggu kinerja CPU itu sendiri.
+Selain itu, Casing juga berfungsi sebagai tempat kita meletakkan dan memasang berbagai komponen seperti motherboard, power supply, optical disc drive, hard disk, dan masih banyak yang lainnya.
+•	 Motherboard
+Motherboard ini merupakan sebuah papan sirkuit tempat berbagai komponen elektronik dan komputer lainnya dipasang dan bisa terhubung satu dengan yang lain. Adapun komponen-komponen yang menjadi bagian inti dalam motherboard ini adalah processor, sound card, video card, hard disk, dan lain sebagainya.
+Motherboard juga berfungsi sebagai media penghubung untuk setiap komponen komputer agar dapat saling berkomunikasi dengan komponen komputer lainnya.
+Selain itu, setiap motherboard memiliki acuan spesifikasi yang berbeda-beda. Misalnya, spesifikasi processor seperti apa yang dapat tertanam dan didukung motherboard itu. Dan seberapa besar kapasitas maksimal RAM yang didukung oleh Motherboard tersebut.
+Hal ini mengartikan bahwa tidak semua motherboard CPU itu sama. Serta tidak dapat sembarangan juga memasang setiap komponen di motherboard CPU. Sebab, apabila tidak didukung, kemungkinan komponen tersebut tidak akan terbaca dalam perangkat komputer anda.
+•	 Processor
+Processor salah satu komponen inti yang terdapat dalam CPU komputer. Sebab, jika tidak ada processor, kemungkinan perangkat komputer tidak dapat bekerja sama sekali. Oleh sebab itu, banyak yang menyebutkan bahwa processor adalah otak dari komputer. Semua proses maupun perintah akan dikerjakan pada processor meskipun masih dengan bantuan komponen-komponen lainnya. Maka demikian, semakin tinggi kecepatan suatu processor, maka semakin cepat pula komputer dalam memproses berbagai macam data.
+Namun perlu diingat, performa tersebut juga sangat bergantung dengan bantuan RAM dan Hardisk yang besar.
+•	 Kipas Processor
+
+Komponen yang satu ini merupakan sebuah perangkat yang dipekerjakan untuk membantu kinerja suatu processor. Kipas Processor berfungsi sebagai pendingin dan menjaga agar suhu processor tetap dingin dan stabil. Hal ini bertujuan agar perangkat processor komputer kita tidak cepat overhead maupun rusak.
+•	RAM
+RAM (Random Access Memory) merupakan salah satu komponen yang terdapat pada bagian unit CPU. RAM juga memiliki kedudukan yang penting bagi perangkat komputer. Pasalnya, komponen yang satu ini bekerja sebagai tempat menampung data sementara yang telah diproses processor sebelum dilanjutkan kepada komponen-komponen lain.
+RAM juga dapat diganti dengan ukuran kapasitas yang lebih besar ataupun kecil, namun hal ini juga harus menurut maksimal RAM yang terdukung di motherboard anda. Sebesar apapun kapasitas memori RAM anda, tapi jika hal itu tidak didukung oleh motherboard, maka bisa dipastikan hal tersebut tidak dapat terbaca oleh suatu perangkat komputer.
+Terlepas dari itu, satuan RAM biasanya menggunakan perhitungan byte. Dan kapasitas RAM yang beredar di pasaran biasanya berkapasitas seperti berikut:
+256 MB, 512 MB, 1 GB, 2 GB, 4 GB, 8 GB, dan lain-lain
+Jenis memori yang masih diproduksi saat ini adalah :
+DDR-1
+DDR-2
+DDR-3
+•	Hardisk (HDD)
+Layaknya seperti sebuah SD Card dalam smartphone, Hardisk juga berfungsi untuk menyimpan berbagai data dan juga menyimpan berbagai sistem operasi dari suatu perangkat komputer itu sendiri. Hardisk biasanya menggunakan perhitungan byte. Dan semakin besar kapasitas hardisk, maka semakin banyak pula data-data konvensional yang dapat anda simpan.
+Ukuran kapasitas Hardisk yang beredar dipasaran biasanya bervariasi, mulai dari 250 GB, 500 GB, 1 TB, hingga 3 TB.
+•	 CD/DVD ROM
+CD/DVD ROM atau juga yang bisa disebut dengan optical disk drive ini adalah piranti yang dapat digunakan untuk menulis dan membaca kaset atau kepingan CD/DVD. Selain itu, CD/DVD ROM juga dapat digunakan untuk mem-burning atau meng-copy CD dengan menggunakan berbagai software seperti Nero, Infra Recorder, dan sebagainya.
+Telepas dari itu, adapun format yang termasuk kedalam CD/DVD ROM adalah CD-ROM drive, CD-RW drive, DVD-ROM drive, dan DVD-RW drive.
+•	VGA CARD (Video Graphic Adapter)
+VGA (Video Graphic Adapter) merupakan salah satu komponen yang dirasa sangat penting untuk sebuah perangkat komputer. Sebab, komponen yang satu ini berfungsi sebagai pengolah data grafis sebelum ditampilkan ke monitor. Tanpa VGA, maka layar komputer bisa dipastikan tidak menampilkan apa-apa, alias blank.
+Selain hal itu, VGA juga sangat penting untuk menentukan kualitas gambar yang ditampilan pada monitor komputer.
+•	Sound Card
+ Piranti yang satu ini lebih berfungsi sebagai pengolah audio untuk perangkat komputer anda. Sound card juga berfungsi sebagai prosesor audio, yang mana dapat mengubah sinyal analog atau sinyal digital yang masuk ke dalam input kartu dan menghasilkan audio atau suara pada sistem komputer anda.
+Sound Card serta memiliki fungsi untuk mengontrol semua audio yang terdapat pada perangkat komputer. Tanpa perangkat ini, maka bisa dipastikan komputer anda tidak akan bersuara.
+•	Power Supply
+Komponen terakhir yang akan kita bahas adalah Power Supply, merupakan bagian dari sistem komputer dan unit CPU yang berfungsi sebagai pembagi daya (sumber arus listrik) pada setiap komponen-komponen komputer. Selain itu, Power Supply juga berfungsi merubah tegangan DC menjadi AC sebelum dialirkan ke setiap komponen-komponen komputer itu sendiri.
+
+2.
+•	Single-Cycle CU 
+Proses di Single-Cycle CU ini hanya terjadi dalam satu clock cycle, artinya setiap instruksi ada pada satu cycle, maka dari itu tidak memerlukan state. Dengan demikian fungsi boolean masing-masing control line hanya merupakan fungsi dari opcode saja. Clock cycle harus mempunyai panjang yang sama untuk setiap jenis instruksi. Ada dua bagian pada unit kontrol ini, yaitu proses men-decode opcode untuk mengelompokkannya menjadi 4 macam instruksi (yaitu di gerbang AND), dan pemberian sinyal kontrol berdasarkan jenis instruksinya (yaitu gerbang OR). 
+
+
+Keempat jenis instruksi adalah “R-format” (berhubungan dengan register), “lw” (membaca memori), “sw” (menulis ke memori), dan “beq” (branching). Sinyal kontrol yang dihasilkan bergantung pada jenis instruksinya. Misalnya jika melibatkan memori ”R-format” atau ”lw” maka akan sinyal ”Regwrite” akan aktif. Hal lain jika melibatkan memori “lw” atau “sw” maka akan diberi sinyal kontrol ke ALU, yaitu “ALUSrc”.
+
+
+Desain single-cycle ini lebih dapat bekerja dengan baik dan benar tetapi cycle ini tidak efisien.
+
+•	Multi-Cycle CU
+
+
+Berbeda dengan unit kontrol yang single-cycle, unit kontrol yang multi-cycle lebih memiliki banyak fungsi. Dengan memperhatikan state dan opcode, fungsi boolean dari masing – masing output control line dapat ditentukan masing – masingnya akan menjadi fungsi dari 10 buah input logic.
+
+
+Jadi akan terdapat banyak fungsi boolean, dan masing-masingnya tidak sederhana. Pada cycle ini, sinyal kontrol tidak lagi ditentukan dengan melihat pada bit-bit instruksinya. Bit-bit opcode memberitahukan operasi apa yang selanjutnya akan dijalankan CPU.
+
+3. Format Instruksi
+Op Code Alamat
+• Kode Operasi (Op Code) direpresentasikan dengan singkatan-singkatan yang disebut mnemonic.
+• Contoh Mnemonic
+o ADD = Penambahan
+o SUBB = Pengurangan
+o LOAD = Muatkan data ke memori
+4.  Kelebihan DMA
+
+Kelebihan menggunakan mode DMA sangat terasa pada sistem operasi multitasking seperti Windows, Linux, UNIX, dan sebagainya. Karena transfer data akan  menghemat resource processor sehingga processor dapat mengerjakan pekerjaan lain. Keuntungan lainnya adalah kecepatan transfer data dengan menggunakan mode DMA jauh lebih cepat bila dibandingkan dengan menggunakan mode PIO.
+
+5. –Pipeline Unit Arithmetic
+Berguna untuk operasi vector. 
+-Pipeline Unit Instruction
+Berguna untuk computer yang mempunyai set instruksi yang sederhana. Tujuan pipeline instruksi adalah untuk memaksimalkan kecepatan mengalirnya instruksi.
+
+
